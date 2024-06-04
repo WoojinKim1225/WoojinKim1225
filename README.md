@@ -42,6 +42,12 @@
 ## Team/Social
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+
+# [STASTICS] : 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoojinKim1225&show_icons=true&theme=onedark)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwj69641)](https://solved.ac/kwj69641)
+
 <!--
 **WoojinKim1225/WoojinKim1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
