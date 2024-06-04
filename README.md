@@ -25,13 +25,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Fusion360](https://img.shields.io/badge/fusion360-%23FF6B00.svg?style=for-the-badge&logo=&logoColor=white)
-![Inventor](https://img.shields.io/badge/inventor-%23DBAE03.svg?style=for-the-badge&logo=&logoColor=white)
+![Fusion](https://img.shields.io/badge/autodesk%20fusion-%23FF6B00.svg?style=for-the-badge&logo=&logoColor=white)
+![Inventor](https://img.shields.io/badge/autodesk%20inventor-%23DBAE03.svg?style=for-the-badge&logo=&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![StudioOne](https://img.shields.io/badge/StudioOne-1E7CFA?style=for-the-badge&logo=y&logoColor=white)
+![StudioOne](https://img.shields.io/badge/Studio%20One-1E7CFA?style=for-the-badge&logo=y&logoColor=white)
 ![Musescore](https://img.shields.io/badge/Musescore-000000?style=for-the-badge&logo=y&logoColor=white)
 
 ## OS/Platform
