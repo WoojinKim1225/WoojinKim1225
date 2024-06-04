@@ -33,7 +33,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![StudioOne](https://img.shields.io/badge/Studio%20One-1E7CFA?style=for-the-badge&logo=y&logoColor=white)
-![Musescore](https://img.shields.io/badge/Musescore-000000?style=for-the-badge&logo=y&logoColor=white)
+![Musescore](https://img.shields.io/badge/Musescore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
 
 ## OS/Platform
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
