@@ -30,6 +30,9 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![StudioOne](https://img.shields.io/badge/StudioOne-1E7CFA?style=for-the-badge&logo=y&logoColor=white)
+![Musescore](https://img.shields.io/badge/Musescore-000000?style=for-the-badge&logo=y&logoColor=white)
 
 ## OS/Platform
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
