@@ -11,9 +11,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HLSL](https://img.shields.io/badge/hlsl-%23313131.svg?style=for-the-badge&logo=&logoColor=white)
-![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## IDE/Tool
 
@@ -33,7 +31,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![StudioOne](https://img.shields.io/badge/Studio%20One-1E7CFA?style=for-the-badge&logo=y&logoColor=white)
-![Musescore](https://img.shields.io/badge/Musescore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
+
 
 ## OS/Platform
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
